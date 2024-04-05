@@ -1,0 +1,16 @@
+1, Produto1, Descrição do Produto1, 10, 50.0
+2, Arroz, Arroz Integral, 20, 5.0, 2024-12-31
+3, Smartphone, Modelo X, 5, 1000.0, MarcaX, ModeloX
+1, Produto1, Descrição do Produto1, 10, 50.0
+2, Arroz, Arroz Integral, 20, 5.0, 2024-12-31
+3, Smartphone, Modelo X, 5, 1000.0, MarcaX, ModeloX
+1, Produto1, Descrição do Produto1, 10, 50.0
+2, Arroz, Arroz Integral, 20, 5.0, 2024-12-31
+3, Smartphone, Modelo X, 5, 1000.0, MarcaX, ModeloX
+1, Produto1, Descrição do Produto1, 10, 50.0
+2, Arroz, Arroz Integral, 20, 5.0, 2024-12-31
+3, Smartphone, Modelo X, 5, 1000.0, MarcaX, ModeloX
+1, Produto1, Descrição do Produto1, 10, 50.0
+2, Arroz, Arroz Integral, 20, 5.0, 2024-12-31
+3, Smartphone, Modelo X, 5, 1000.0, MarcaX, ModeloX
+51222,sabao,esdfgb,44,86.0
